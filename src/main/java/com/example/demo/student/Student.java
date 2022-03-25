@@ -2,8 +2,6 @@ package com.example.demo.student;
 
 import java.time.LocalDate;
 
-import org.yaml.snakeyaml.constructor.Construct;
-
 public class Student {
     private Long id;
     private String name;
